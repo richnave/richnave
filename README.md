@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and practicing with AWS technologies and applications.
 - 🌱 I’m currently studdying for the AWS Certified Solutions Architect - Associate certification test
 - 💞️ I’m looking to collaborate on anything related to what I'm studying as well as Python and Powershell. 
-- 📫 How to reach me richard.nave.mail@gmail.com is the best way to reach me. 
+- 📫 My email: richard.nave.mail@gmail.com is the best way to reach me. 
 
 <!---
 richnave/richnave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
